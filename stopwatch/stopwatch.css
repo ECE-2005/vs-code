@@ -1,0 +1,26 @@
+body{
+    font-family: Arial;
+    background-color: blue;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.container{
+    background: red;
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#display{
+    font-size: 40px;
+    margin: 20px 0;
+}
+
+button{
+    padding: 10px 15px;
+    margin: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
